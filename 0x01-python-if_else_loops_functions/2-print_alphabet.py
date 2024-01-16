@@ -1,6 +1,4 @@
 #!/usr/bin/python3
 
-str1 = 'a'
-str2 = 'z'
-while(str1 <= str2):
-    print(str2)
+for char in range(ord('a'), ord('z') + 1):
+    print(chr(char), end='')
