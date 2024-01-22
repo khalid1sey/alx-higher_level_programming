@@ -9,4 +9,6 @@ def replace_in_list(my_list, idx, element):
     if idx > length - 1:
         return (my_list)
 
-    return (my_list.remove(idx))
+    my_list[idx] = element
+
+    return (my_list)
