@@ -212,3 +212,20 @@ To further enhance your understanding and skills in Python programming, here are
 - Python tutorials and courses: Online platforms like [Coursera](https://www.coursera.org) and [Udemy](https://www.udemy.com) offer various Python tutorials and courses for beginners and advanced learners.
 - "Python Crash Course" by Eric Matthes: This book provides a beginner-friendly introduction to Python programming with practical examples and projects.
 - "Fluent Python" by Luciano Ramalho: This book is recommended for intermediate to advanced Python programmers who want to deepen their understanding of the language and its features.
+
+
+| File                               | Prototype                                      |
+| ---------------------------------- | ---------------------------------------------- |
+| `0-print_list_integer.py`          | `def print_list_integer(my_list=[]):`          |
+| `1-element_at.py`                  | `def element_at(my_list, idx):`                |
+| `2-replace_in_list.py`             | `def replace_in_list(my_list, idx, element):`  |
+| `3-print_reversed_list_integer.py` | `def print_reversed_list_integer(my_list=[]):` |
+| `4-new_in_list.py`                 | `def new_in_list(my_list, idx, element):`      |
+| `5-no_c.py`                        | `def no_c(my_string):`                         |
+| `6-print_matrix_integer.py`        | `def print_matrix_integer(matrix=[[]]):`       |
+| `7-add_tuple.py`                   | `def add_tuple(tuple_a=(), tuple_b=()):`       |
+| `8-multiple_returns.py`            | `def multiple_returns(sentence):`              |
+| `9-max_integer.py`                 | `def max_integer(my_list=[]):`                 |
+| `10-divisible_by_2.py`             | `def divisible_by_2(my_list=[]):`              |
+| `11-delete_at.py`                  | `def delete_at(my_list=[], idx=0):`            |
+| `100-print_python_list_info.c`     | `void print_python_list_info(PyObject *p);`    |
